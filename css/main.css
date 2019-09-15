@@ -38,11 +38,11 @@ header {
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: #ffccff;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: #cc99ff;
 }
 
 
@@ -64,21 +64,25 @@ footer {
   }
 
   #column-1 {
-    background-color: #00cc00;
+    background-color: #99e6ff;
   }
 
   #column-2 {
-    background-color: #00cc00;
+    background-color: #88cc00;
   }
 
   #column-3 {
-    background-color: #00cc00;
+    background-color: #ff8533;
+    width: 100%;
   }
 
   footer {
-    background-color: #00cc00;
+    background-color: #ff66b3;
   }
 
+  .col-3 {
+    width: 50%;
+  }
 }
 
 
@@ -89,19 +93,23 @@ footer {
   }
 
   #column-1 {
-    background-color: #b3ecff;
+    background-color: #cc99ff;
   }
 
   #column-2 {
-    background-color: #b3ecff;
+    background-color: #809fff;
   }
 
   #column-3 {
-    background-color: #b3ecff;
+    background-color: #ff8533;
+    width: 33.3%;
   }
 
   footer {
-    background-color: #b3ecff;
+    background-color: #ff4da6;
   }
 
+  .col-3 {
+    width: 33.3%;
+  }
 }
